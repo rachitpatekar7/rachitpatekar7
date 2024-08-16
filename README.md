@@ -1,5 +1,5 @@
 # About Me:
-### 𝓲 𝓬𝓸𝓭𝓮 𝓼𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼
+###𝒾 𝒸𝑜𝒹𝑒 𝓈𝑜𝓂𝑒𝓉𝒾𝓂𝑒𝓈
 
 # Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rachitpatekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachitpatekar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@patekremixes5516) 
