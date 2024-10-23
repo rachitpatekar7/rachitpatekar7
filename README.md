@@ -7,7 +7,6 @@
 # Tech Stack:
 ## 𝓊𝓅𝑔𝓇𝒶𝒹𝒾𝓃𝑔
 
----
 # Peep what i'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fdc3kp94o91oolhr2acsan0d6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff7300&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fdc3kp94o91oolhr2acsan0d6&redirect=true)
 
